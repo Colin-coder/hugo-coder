@@ -12,11 +12,11 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Kang Niu"
+author = "Newcon"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Kang Niu's personal website"
+description = "Newcon's personal website"
 keywords = "blog,developer,personal"
-info = ["C++ Programmer"]
+info = ["领略技术的魅力", "个人目标是：带着技术，学到老，玩到老..."]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -155,7 +155,7 @@ url = "LangChain/"
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact me"

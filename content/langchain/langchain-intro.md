@@ -8,14 +8,14 @@ tags = [
 ]
 +++
 
-# LangChain 介绍
-
 ## 目的
 LangChain仓库：
 [主仓库地址-Python版本](https://github.com/hwchase17/langchain)
+
 还支持JS/TS仓库地址[LangChain.js](https://github.com/hwchase17/langchainjs)
 
 LangChain对自己的定义是 `Building applications with LLMs through composability`
+
 将这句话拆分解释一下：
 1. LangChain目的是 Building applications，构建应用程序
 2. 主要使用的工具是 LLMs (Large Language Model)，大语言模型
@@ -33,7 +33,7 @@ LangChain对自己的定义是 `Building applications with LLMs through composab
 
 2023年3月LangChain获得1000万美元种子轮融资，而LangChain仓库首次提交时间是 `2022-10-23`，用了5个月的时间获得融资
 
-![2022-10-23](./commitLog.png)
+![2022-10-23](/images/commitLog.png)
 
 ### 其他
 
