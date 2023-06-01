@@ -16,7 +16,7 @@ author = "Newcon"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Newcon's personal website"
 keywords = "blog,developer,personal"
-info = ["领略技术的魅力", "个人目标是：带着技术，学到老，玩到老..."]
+info = ["带着技术，学到老，玩到老..."]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -142,52 +142,52 @@ url = "https://twitter.com/niukang3/"
 [languages.en]
 languageName = "English"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "LangChain/"
+url = "langchain/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "posts/"
+# [[languages.en.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.zh-cn]
-languageName = "切换中文"
-title = "newcon"
+# [languages.zh-cn]
+# languageName = "切换中文"
+# title = "newcon"
 
-[languages.zh-cn.params]
-author = "牛康"
-info = "C++开发工程师"
-description = "桌面开发"
-keywords = "blog,desenvolvedor,pessoal"
+# [languages.zh-cn.params]
+# author = "牛康"
+# info = "C++开发工程师"
+# description = "桌面开发"
+# keywords = "blog,desenvolvedor,pessoal"
 
-[[languages.zh-cn.menu.main]]
-name = "关于"
-weight = 1
-url = "about/"
+# [[languages.zh-cn.menu.main]]
+# name = "关于"
+# weight = 1
+# url = "about/"
 
-[[languages.zh-cn.menu.main]]
-name = "博客"
-weight = 2
-url = "posts/"
+# [[languages.zh-cn.menu.main]]
+# name = "博客"
+# weight = 2
+# url = "posts/"
 
-[[languages.zh-cn.menu.main]]
-name = "项目"
-weight = 3
-url = "projects/"
+# [[languages.zh-cn.menu.main]]
+# name = "项目"
+# weight = 3
+# url = "projects/"
 
-[[languages.zh-cn.menu.main]]
-name = "联系我"
-weight = 5
-url = "contact/"
+# [[languages.zh-cn.menu.main]]
+# name = "联系我"
+# weight = 5
+# url = "contact/"
