@@ -8,8 +8,6 @@ tags = [
 ]
 +++
 
-这一系列文章写作的目的主要是因为我觉得中文环境下对LangChain的相关介绍不够多，我想尽自己的绵薄之力，让它多起来！！
-
 ## LangChain基本信息
 
 LangChain仓库：
@@ -41,7 +39,7 @@ LangChain是一种整体框架，自己将LLMs与各种其他组件结合起来�
 2023年3月LangChain获得1000万美元种子轮融资，而LangChain仓库首次提交时间是 `2022-10-23`，用了5个月的时间获得融资
 
 <!-- ![LangChain提交历史](/images/commitLog.png) -->
-![LangChain提交历史](/images/commitLog.png)
+![LangChain提交历史](https://nkshare.space/images/commitLog.png)
 
 ### 其他
 
